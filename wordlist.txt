@@ -11,6 +11,15 @@ administrator/
 moderator/
 webadmin/
 adminarea/
+cms
+cms-panel
+cms_panel
+admin-panel/
+admin-panel
+admin_panel/
+admin_panel
+login/
+login
 bb-admin/
 adminLogin/
 admin_area/
